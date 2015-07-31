@@ -7,3 +7,5 @@
 
 
 <http://haoqicat.com/happypeter/rails10-ri-tan> The link is invalid now.
+
+<http://www.imooc.com/view/230>try this
